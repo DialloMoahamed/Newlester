@@ -1,0 +1,56 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Gill Sans', 'Gill Sans MT', cursive, 'Trebuchet MS';
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    overflow-y: hidden;
+    overflow-x: hidden;
+}
+.car{
+    border-radius: 20px;
+}
+.container{
+    width: 70em !important;
+    height: 60vh;
+    background:url(/deux-girafes-qui-s-embrassent-dans-le-zoo-p14j95.jpg);
+
+}
+
+.circleIcon{
+    width:80px;
+    height: 80px;
+    background-color: #18B98F;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: solid white;
+
+}
+.conteuIcon{
+    width: 100px;
+    height: 100px;
+    background-color: #18B98F;
+    border-radius: 50%;
+}
+.bg-darkcss{
+    background-color: #1b3320a4 !important;
+    border: solid #FFF 2px;
+
+}
+.input-group{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+       
+}
+.btn{
+    height: 50px;
+  
+}
+
